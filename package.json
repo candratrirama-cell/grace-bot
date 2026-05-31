@@ -1,0 +1,21 @@
+{
+  "name": "grace-bot",
+  "version": "2.0.0",
+  "description": "Grace Bot WhatsApp - Free Unlimited Bot by @maramadhona",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.15.0",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "axios": "^1.7.2",
+    "node-cron": "^3.0.3"
+  },
+  "keywords": ["whatsapp-bot", "baileys", "grace-bot"],
+  "author": "@maramadhona",
+  "license": "MIT"
+}
